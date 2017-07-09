@@ -1,0 +1,44 @@
+body{
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+	background-image: url(../img/sanandres2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+img{
+	width: 100%;
+}
+
+nav{
+	background-color: white;
+}
+
+.cabeza{
+	margin-top: 3rem;
+}
+
+.redes img{
+	padding: 1rem;
+}
+
+.articulo {
+	padding: 2rem;
+	
+}
+
+
+
+.autor img{
+	padding: 2rem;
+}
+
+.articulo p{
+	padding:  0 2rem 0 2rem;
+	text-align: justify;
+	font-size: 20px;
+}
+
+
+.formulario{
+	padding-top: 2rem !important;
+}

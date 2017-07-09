@@ -1,0 +1,145 @@
+body{
+	background-color: black;
+}
+.row{
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+.cabeza{
+	background-color: white;
+}
+
+.logo img{
+	width: 15rem;
+}
+
+.logo{
+	background-color: white;
+	padding: 2rem;
+
+
+}
+
+.redes{
+	background-color: white;
+	padding-top: 10rem;
+	padding-left: 10%;
+}
+
+li a{
+	color: white;
+}
+
+li>a:hover{
+	background-color: #8A4B08 !important;
+	color: white;
+}
+
+.menu{
+	background-color: #FE9A2E;
+
+}
+
+
+
+nav{
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+.redes i{
+	font-size:40px;
+	
+}
+
+
+.fa-facebook-official{
+	color:#0B0B61;
+	
+}
+
+.fa-facebook-official:hover{
+	color:blue;
+	
+}
+
+.fa-google-plus{
+	color:#B40404;
+}
+
+.fa-google-plus:hover{
+	color:red;
+}
+
+
+.fa-twitter-square{
+	color: #045FB4;
+}
+
+.fa-twitter-square:hover{
+	color: #2E9AFE;
+}
+
+.fa-youtube{
+	color:#B40404;
+}
+
+.fa-youtube:hover{
+	color:red;
+}
+
+.seccion1{
+	margin-top: 4rem;
+	background-color: white;
+	padding: 2rem;
+}
+
+.martin{
+	padding-top: 2rem;
+}
+
+.listado{
+	padding-top: 2rem;
+}
+
+.lista{
+	margin-top: 2rem;
+}
+
+@media (max-width: 1199px) {
+
+	
+	.redes{
+
+	padding-left: 40%;	
+	padding-top: 0;
+	
+}
+	li>a:hover{
+	background-color: none;
+	color: white;
+}
+	
+}
+
+
+@media (max-width: 600px) {
+
+	
+	.redes{
+	padding-left: 20%;	
+	padding-top: 0;
+	
+}
+
+@media (max-width: 300px) {
+
+	
+	.redes{
+	padding-left: 10%;	
+	padding-top: 0;
+	
+}
+	
+}

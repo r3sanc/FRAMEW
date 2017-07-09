@@ -1,0 +1,71 @@
+body{
+	background-image: url(../img/restaurante2.jpg);
+}
+
+.sidev{
+	
+
+}
+
+.recetas ul li{
+	list-style: none;
+	border-top: 1px solid #BDBDBD;
+}
+
+
+.logo img{
+	padding-left: 2rem;
+	width: 90%;
+
+}
+
+.cont{
+	height: 500px;
+}
+
+
+.coment ul li{
+	width: 100%;
+	height: 6rem;
+	list-style: none;
+	border-radius: 5px; 
+	border: 1px solid #BDBDBD;
+
+}
+
+.mujer{
+	margin-left: 1rem;
+}
+
+.coment ul>li>img{
+	width: 10px
+	border: 1px solid #BDBDBD;
+}
+
+.contenido{
+	background-color: #610B0B;
+	opacity: .9;
+	margin-top: 0 !important;
+
+}
+
+.menu{
+	background-color: #FE642E;
+	color: white;
+	text-align: center;
+}
+
+ul>li>a{
+	text-align: center;
+	color: white;
+
+
+}
+
+ul>li>a:hover{
+	background-color: #FE9A2E;
+	color: black;
+	
+	
+
+}
